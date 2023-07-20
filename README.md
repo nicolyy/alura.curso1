@@ -1,6 +1,6 @@
 # alura.curso1
 Projeto realizado durante a formação "A partir do zero: Iniciante em programação". 
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -20,4 +20,4 @@ Projeto realizado durante a formação "A partir do zero: Iniciante em programa�
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
 
-```
+
